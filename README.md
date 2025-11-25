@@ -5,10 +5,16 @@ Hi, I'm Michelzon, or as I prefer to be called, Cheche. Here I'll be writing abo
 
 **I'll start by creating an NGINX container** :smiley:
 
+![image](https://github.com/ChecheMC/DockerStart/blob/main/DockerNGINX.png)
+
 **Commands**
+
 -d → Detached mode (running in the background)
 
 -p 8080:80 → Your PC port 8080 → Container port 80
 
 nginx → NGINX web server image
 
+**NGINX PAGE**
+
+![image](https://github.com/ChecheMC/DockerStart/blob/main/NGINXPagina.png)
