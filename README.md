@@ -21,4 +21,19 @@ nginx → NGINX web server image
 
 **Image Creation**
 
-![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/DockerImages.png)]
+![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/DockerImages.png)
+
+**Importing the image into Docker**
+
+![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/DockerImagenImport.png)
+
+**My first Page with Docker**
+![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/ImagePageDockerOKAY.png)
+
+<h1>English</h1> :blush:
+
+<h4>This time I learned how to create a custom image by making a local web page from within. Maybe next time I'll achieve something a little more advanced, but I'm really enjoying this path.</h4> :blush:
+
+<h1>Español</h1> :blush:
+
+<h4>Esta vez aprendí a poder crear una imagen personalizada haciendo una página web en local. Tal vez a la próxima logre algo un poco más avanzado, pero este camino me está gustando mucho.</h4> :blush:
