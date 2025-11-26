@@ -5,7 +5,7 @@ Hi, I'm Michelzon, or as I prefer to be called, Cheche. Here I'll be writing abo
 
 **I'll start by creating an NGINX container** :smiley:
 
-![image](https://github.com/ChecheMC/DockerStart/blob/main/DockerNGINX.png)
+![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/DockerNGINX.png)
 
 **Commands**
 
@@ -17,4 +17,8 @@ nginx → NGINX web server image
 
 **NGINX PAGE**
 
-![image](https://github.com/ChecheMC/DockerStart/blob/main/NGINXPagina.png)
+![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/NGINXPagina.png)
+
+**Image Creation**
+
+![image](https://github.com/ChecheMC/DockerStart/blob/main/Imagenes%20Docker/DockerImages.png)]
